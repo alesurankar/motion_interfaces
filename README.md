@@ -3,7 +3,7 @@
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select motion_interfaces
-source ~/ros2_ws/install/setup.bashž
+source ~/ros2_ws/install/setup.bash
 ```
 
 # list

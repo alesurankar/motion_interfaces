@@ -3,8 +3,7 @@
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select motion_interfaces
-source ~/ros2_ws/install/setup.bash
-ros2 run udp_ros_bridge udp_bridge_node
+source ~/ros2_ws/install/setup.bashž
 ```
 
 # list

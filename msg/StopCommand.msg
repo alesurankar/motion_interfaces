@@ -1,0 +1,1 @@
+motion_interfaces/CommandMetadata metadata

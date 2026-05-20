@@ -1,3 +1,4 @@
+# BaseVelocityCommand.msg
 motion_interfaces/CommandMetadata metadata
 
 float64 vx

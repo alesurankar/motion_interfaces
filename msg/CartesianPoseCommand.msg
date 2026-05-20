@@ -1,3 +1,4 @@
+# CartesianPoseCommand.msg
 motion_interfaces/CommandMetadata metadata
 
 string target_link

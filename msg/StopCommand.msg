@@ -1,1 +1,2 @@
+# StopCommand.msg
 motion_interfaces/CommandMetadata metadata

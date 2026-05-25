@@ -13,6 +13,7 @@ find_package(builtin_interfaces REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CommandMetadata.msg"
+  "msg/CartesianVelocityCommand.msg"
   "msg/CartesianPoseCommand.msg"
   "msg/BaseVelocityCommand.msg"
   "msg/JointPositionCommand.msg"
